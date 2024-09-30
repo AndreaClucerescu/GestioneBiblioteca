@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\bin\Debug\net8.0\ClucerescuGestioneBiblioteca.exe
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\bin\Debug\net8.0\ClucerescuGestioneBiblioteca.deps.json
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\bin\Debug\net8.0\ClucerescuGestioneBiblioteca.runtimeconfig.json
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\bin\Debug\net8.0\ClucerescuGestioneBiblioteca.dll
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\bin\Debug\net8.0\ClucerescuGestioneBiblioteca.pdb
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\obj\Debug\net8.0\ClucerescuGestioneBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\obj\Debug\net8.0\ClucerescuGestioneBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\obj\Debug\net8.0\ClucerescuGestioneBiblioteca.AssemblyInfo.cs
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\obj\Debug\net8.0\ClucerescuGestioneBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\obj\Debug\net8.0\ClucerescuGestioneBiblioteca.dll
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\obj\Debug\net8.0\refint\ClucerescuGestioneBiblioteca.dll
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\obj\Debug\net8.0\ClucerescuGestioneBiblioteca.pdb
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\obj\Debug\net8.0\ClucerescuGestioneBiblioteca.genruntimeconfig.cache
+C:\Users\Utente\Desktop\ClucerescuGestioneBiblioteca\ClucerescuGestioneBiblioteca\obj\Debug\net8.0\ref\ClucerescuGestioneBiblioteca.dll
